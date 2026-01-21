@@ -88,19 +88,19 @@ sherlock ideh
 ```
 
 ### 📊 Sherlock Results:
-110+ potential profiles! But quantity doesn’t equal quality. I needed to verify the most promising leads.
 
 ![Sherlock Scan 1](assets/screenshot_sherlock_1.png)
 ![Sherlock Scan 2](assets/screenshot_sherlock_2.png)
 
+110+ potential profiles! But quantity doesn’t equal quality. I needed to verify the most promising leads.
+
+![GitHub Profile Analysis](assets/github_api_curl.webp)
+![GitHub Profile Analysis](assets/screenshot_github_check.png)
 
 **Analysis (GitHub Example):**
 - Account created in 2013 (way before this CTF)
 - Zero repos, zero gists, zero followers, zero following
 - Last updated in 2016 (completely dormant for 10 years)
-
-![GitHub Profile Analysis](assets/screenshot_github_check.png)
-
 
 **Verdict:** Generic username, not related to this challenge (Red Herring 🎣).
 
